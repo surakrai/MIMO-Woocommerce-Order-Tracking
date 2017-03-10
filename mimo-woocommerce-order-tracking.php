@@ -5,7 +5,7 @@
  * Description: MIMO Woocommerce Order Tracking
  * Version:     0.0.1
  * Author:      Surakrai Nookong
- * Author URI:  -
+ * Author URI:  https://www.facebook.com/surakraisam
  * Donate link: -
  * License:     GPLv2
  * Text Domain: mwot
